@@ -29,7 +29,6 @@ num1=int(input())
 iternum=100
 squareroot(num1,iternum)
 #print("Square root of the number:",squareroot(num1,iternum))
-*/
 ```
 
 ## Output:
